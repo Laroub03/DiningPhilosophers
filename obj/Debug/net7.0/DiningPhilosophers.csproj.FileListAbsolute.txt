@@ -1,0 +1,15 @@
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/bin/Debug/net7.0/DiningPhilosophers
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/bin/Debug/net7.0/DiningPhilosophers.deps.json
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/bin/Debug/net7.0/DiningPhilosophers.runtimeconfig.json
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/bin/Debug/net7.0/DiningPhilosophers.dll
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/bin/Debug/net7.0/DiningPhilosophers.pdb
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/DiningPhilosophers.csproj.AssemblyReference.cache
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/DiningPhilosophers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/DiningPhilosophers.AssemblyInfoInputs.cache
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/DiningPhilosophers.AssemblyInfo.cs
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/DiningPhilosophers.csproj.CoreCompileInputs.cache
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/DiningPhilosophers.dll
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/refint/DiningPhilosophers.dll
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/DiningPhilosophers.pdb
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/DiningPhilosophers.genruntimeconfig.cache
+/Users/ayoublaroub/projects/DiningPhilosophers/DiningPhilosophers/obj/Debug/net7.0/ref/DiningPhilosophers.dll
